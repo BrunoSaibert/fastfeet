@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="FastFeet" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+    <img alt="FastFeet" src="https://github.com/BrunoSaibert/fastfeet/blob/master/src/assets/logo.png?raw=true" width="200px" />
 </p>
 
 <h1 align="center">
