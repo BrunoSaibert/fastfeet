@@ -17,6 +17,12 @@ class Recipient extends Model {
       }
     );
 
+    this.addHook('beforeSave', async recipient => {
+      if (recipient.state) {
+        recipient.state = await recipient.state.toUpperCase();
+      }
+    });
+
     return this;
   }
 }
